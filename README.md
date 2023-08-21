@@ -16,7 +16,7 @@
 ```javascript
 const thai = {
   pronouns: "He" | "him",
-  code: [Android, HTML, C++, C, Python, Java],
+  code: [Android, HTML, C++, C, Python, Java, SQL],
   tools: [React, Node, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
